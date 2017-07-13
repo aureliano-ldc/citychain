@@ -1,6 +1,6 @@
 # 城语接龙
 ------------------------------
 ## Usage:
-    >> from import keychain import
+    >> from citychain import *
     >> main() 
     请输入城市：
